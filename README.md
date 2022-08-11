@@ -1,6 +1,8 @@
 # IEEE-Big-Data-2022
 
-#Packages need to be installed
+In this experiment, we have applied  the  pre-trained zero-shot model (https://joeddav.github.io/blog/2020/05/29/ZSL.html), and the supervised alogorithms such as Support Vector Machine, Naive Bayes, Random Forest, and Decision trees in the context of topic prediction for the digital forensic data. We have applied cluster based approach to preprocess the input data in order to improve the performance of the zero-shot model. The zero-shot is robust agaist the unseen class and the unseen text because it can predict the topics in the without any training.  The API of the zero-shot is publicly avaible at : https://huggingface.co/zero-shot/ 
+
+# Packages need to be installed
 !pip install -U sentence-transformers
 
 !pip install sentence_transformers
@@ -16,12 +18,13 @@
 !pip install https://github.com/scikit-learn-contrib/scikit-learn-extra/archive/master.zip
 
 
-#Data 
+# Data 
 
 1. Reuters News Group Data is available in https://huggingface.co/datasets/reuters21578 
+
 2. Yahoo-Answers-Topic Data is available in  https://huggingface.co/datasets/yahoo_answers_topics
 
-#Code:
+# Code:
 
 Reuter Data Application: To execute the code using Reuters in Code folder please run the notebook named Zero_Shot_Reuters_Data_Appliccation_.ipynb
 
