@@ -1,6 +1,6 @@
 # IEEE-Big-Data-2022
 
-In this experiment, we have applied  the  pre-trained zero-shot model (https://joeddav.github.io/blog/2020/05/29/ZSL.html), and the supervised alogorithms such as Support Vector Machine, Naive Bayes, Random Forest, and Decision trees in the context of topic prediction for the digital forensic data. We have applied cluster based approach to preprocess the input data in order to improve the performance of the zero-shot model. The zero-shot is robust agaist the unseen class and the unseen text because it can predict the topics in the without any training.  The API of the zero-shot is publicly avaible at : https://huggingface.co/zero-shot/ 
+In this experiment, we have applied  the  pre-trained zero-shot model (https://joeddav.github.io/blog/2020/05/29/ZSL.html), and the supervised alogorithms such as Support Vector Machine, Naive Bayes, Random Forest, and Decision trees in the context of topic prediction for the digital forensic data. We have applied cluster based approach to preprocess the input data in order to improve the performance of the zero-shot model. The zero-shot is robust against the unseen class and the unseen text because it can predict the topics in the without any training.  The API of the zero-shot is publicly avaible at : https://huggingface.co/zero-shot/ 
 
 # Packages need to be installed
 !pip install -U sentence-transformers
