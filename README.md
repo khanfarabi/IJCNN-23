@@ -32,6 +32,6 @@ Yahoo-Answers-Topic Data Application: To execute the code using Yahoo-Answers-To
 
 Small Warrant Data Application: To execute the code using Warrant texts in Code folder please run the notebook named Zero_Shot_Warrant_Data_Application.ipynb
 
-Supervised Algorithm Comparison: To exceute for Reuter data in Code folder please run the notebook named Zero-Shot_vs_Supervised_Reuters_Data.ipynb, and To exceute for Yahoo-Answers-Topic data in Code folder please run the notebook named Zer-Shot_vs_Supervised_Yahoo_Data.ipynbnb
+Supervised Algorithm Comparison: To exceute for Reuter data in Code folder please run the notebook named Zero-Shot_vs_Supervised_Reuters_Data.ipynb, and to exceute for Yahoo-Answers-Topic data in Code folder please run the notebook named Zer-Shot_vs_Supervised_Yahoo_Data.ipynbnb
 
 
