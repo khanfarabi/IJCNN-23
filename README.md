@@ -1,6 +1,6 @@
 # IEEE-Big-Data-2022
 
-In this experiment, we have applied  the  pre-trained zero-shot model (https://joeddav.github.io/blog/2020/05/29/ZSL.html), and the supervised alogorithms such as Support Vector Machine, Naive Bayes, Random Forest, and Decision trees in the context of topic prediction for the digital forensic data. We have applied cluster based approach to preprocess the input data in order to improve the performance of the zero-shot model. The zero-shot is robust against the unseen class and the unseen text because it can predict the topics in the without any training.  The API of the zero-shot is publicly avaible at : https://huggingface.co/zero-shot/ 
+In this experiment, we have applied  the  pre-trained zero-shot model (https://joeddav.github.io/blog/2020/05/29/ZSL.html), and the supervised alogorithms such as Support Vector Machine, Naive Bayes, Random Forest, and Decision trees in the context of topic prediction for the digital forensic data. We have applied cluster based approach to preprocess the input data in order to improve the performance of the zero-shot model. The zero-shot is robust against the unseen class and the unseen text because it can predict the topics in unseen data without any training.  The API of the zero-shot is publicly avaible at : https://huggingface.co/zero-shot/ 
 
 # Packages need to be installed
 !pip install -U sentence-transformers
@@ -32,6 +32,6 @@ Yahoo-Answers-Topic Data Application: To execute the code using Yahoo-Answers-To
 
 Small Warrant Data Application: To execute the code using Warrant texts in Code folder please run the notebook named Zero_Shot_Warrant_Data_Application.ipynb
 
-Supervised Algorithm Comparison: To exceute for Reuter data in Code folder please run the notebook named Zero-Shot_vs_Supervised_Reuters_Data.ipynb, and To exceute for Reuter data in Code folder please run the notebook named Zer-Shot_vs_Supervised_Yahoo_Data.ipynbnb
+Supervised Algorithm Comparison: To exceute for Reuter data in Code folder please run the notebook named Zero-Shot_vs_Supervised_Reuters_Data.ipynb, and To exceute for Yahoo-Answers-Topic data in Code folder please run the notebook named Zer-Shot_vs_Supervised_Yahoo_Data.ipynbnb
 
 
