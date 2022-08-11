@@ -2,12 +2,19 @@
 
 #Packages need to be installed
 !pip install -U sentence-transformers
+
 !pip install sentence_transformers
+
 !pip install transformers
+
 !pip install datasets
+
 !pip install stop_words
+
 !pip install scipy 
+
 !pip install https://github.com/scikit-learn-contrib/scikit-learn-extra/archive/master.zip
+
 
 #Data 
 
