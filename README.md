@@ -10,7 +10,7 @@ The outcomes of the zero-shot API as follows:
 
 
 
-# Packages need to be installed![Uploading zero-shot_model_outcomes.PNG…]()
+# Packages need to be installed
 
 !pip install -U sentence-transformers!
 
