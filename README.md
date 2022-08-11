@@ -5,14 +5,15 @@ In this experiment, we have applied  the  pre-trained zero-shot model (https://j
 The outcomes of the zero-shot API as follows: 
 
 
+<img width="455" alt="zrshot" src="https://user-images.githubusercontent.com/25291998/184075549-69a1572c-467d-4dcf-bfdc-290eeae44b97.PNG">
 
-<img width="469" alt="zero-shot_model_outcomes" src="https://user-images.githubusercontent.com/25291998/184075257-a126c924-c05f-4adf-a2b5-4ac6ef1e4cfe.PNG">
 
 
 
 # Packages need to be installed![Uploading zero-shot_model_outcomes.PNG…]()
 
-!pip install -U sentence-transformers
+!pip install -U sentence-transformers![Uploading zrshot.PNG…]()
+
 
 !pip install sentence_transformers
 
