@@ -34,6 +34,8 @@ The outcomes of the zero-shot API as follows:
 
 2. Yahoo-Answers-Topic Data is available in  https://huggingface.co/datasets/yahoo_answers_topics
 
+3. The shot warrant text is in Warrant_Data folder. 
+
 # Code:
 
 Reuter Data Application: To execute the code using Reuters in Code folder please run the notebook named Zero_Shot_Reuters_Data_Appliccation_.ipynb. The code can be accessed using the Google Colab Link. Google Colab Link: https://colab.research.google.com/drive/1kdwkfij05ZxN50v6eOTiWGjUyavR0--0?usp=sharing
