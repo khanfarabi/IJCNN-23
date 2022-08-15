@@ -37,17 +37,22 @@ The outcomes of the zero-shot API as follows:
 
 # Code:
 
-Reuter Data Application: To execute the code using Reuters in Code folder please run the notebook named Zero_Shot_Reuters_Data_Appliccation_.ipynb. The code can be accessed using the Google Colab Link. Google Colab Link: https://colab.research.google.com/drive/1kdwkfij05ZxN50v6eOTiWGjUyavR0--0?usp=sharing
-
-
-Yahoo-Answers-Topic Data Application: To execute the code using Yahoo-Answers-Topic in Code folder please run the notebook named Zero_Shot_yahoo_answers_topic_Data_Appliccation_.ipynb. The code can be accessed using the Google Colab Link. Google Colab Link: https://colab.research.google.com/drive/1-nvlGVyfZH5tQDS-mXPKWejJU2Ts4v9h?usp=sharing
-
 
 Supervised Algorithm Comparison: To exceute for Reuter data in Code folder please run the notebook named Zero-Shot_vs_Supervised_Reuters_Data.ipynb, and to exceute for Yahoo-Answers-Topic data in Code folder please run the notebook named Zer-Shot_vs_Supervised_Yahoo_Data.ipynbnb. The codes can be accessed using the Google Colab Link.
 
 Google Colab Link Reuters : https://colab.research.google.com/drive/1Hqae1Ytk5OepoxOgzlfCZiHf2vXyD7xz?usp=sharing
 
 Google Colab Link Yahoo-Answers-Topic : https://colab.research.google.com/drive/19ulDvFEdwjvB3xfxaVwmwI7SILc4gmsE?usp=sharing
+
+
+
+Reuter Data Application: To execute the code using Reuters in Code folder please run the notebook named Zero_Shot_Reuters_Data_Appliccation_.ipynb. The code can be accessed using the Google Colab Link. Google Colab Link: https://colab.research.google.com/drive/1kdwkfij05ZxN50v6eOTiWGjUyavR0--0?usp=sharing
+
+
+Yahoo-Answers-Topic Data Application: To execute the code using Yahoo-Answers-Topic in Code folder please run the notebook named Zero_Shot_yahoo_answers_topic_Data_Appliccation_.ipynb. The code can be accessed using the Google Colab Link. Google Colab Link: https://colab.research.google.com/drive/1-nvlGVyfZH5tQDS-mXPKWejJU2Ts4v9h?usp=sharing
+
+
+
 
 
 Small Warrant Data Application: To execute the code using Warrant texts in Code folder please run the notebook named Zero_Shot_Warrant_Data_Application.ipynb. The code can be accessed using the Google Colab Link.  Google Colab Link: https://colab.research.google.com/drive/106icTag2q1pHs_tYVNJ8vOu7MJQWDksN?usp=sharing
