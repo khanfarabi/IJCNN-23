@@ -63,9 +63,3 @@ The code can be accessed using the Google Colab Link. Google Colab Link: https:/
 
 
 
-
-Small Warrant Data Application: To execute the code using Warrant texts in Code folder please run the notebook named Zero_Shot_Warrant_Data_Application.ipynb. In the notebook, to run the application execute the cells in ordert.  
-
-The code can be accessed using the Google Colab Link.  Google Colab Link: https://colab.research.google.com/drive/106icTag2q1pHs_tYVNJ8vOu7MJQWDksN?usp=sharing
-
-
