@@ -29,6 +29,11 @@ In this experiment, we have applied  the  pre-trained zero-shot model (https://j
 
 2. Yahoo-Answers-Topic Data is available in  huggingface datasets https://huggingface.co/datasets/yahoo_answers_topics
 
+3. Forensic Data: 
+    Gmail: https://drive.google.com/drive/folders/16mKUq5BWX_hWTl2hHmEeMChwweVnYrmg
+    Facebook: https://drive.google.com/drive/folders/1g0pVIlNti1eVoG4AEC4Qr8ADWC69ChZq
+    Twitter: https://drive.google.com/drive/folders/1g0pVIlNti1eVoG4AEC4Qr8ADWC69ChZq
+
 
 # Code:
 
@@ -51,6 +56,10 @@ The code can be accessed using the Google Colab Link. Google Colab Link: https:/
 Yahoo-Answers-Topic Data based Cluster Application: To execute the code using Yahoo-Answers-Topic in Code folder please run the notebook named Zero_Shot_yahoo_answers_topic_Data_Appliccation_.ipynb. In the notebook, to run the application execute the cells in ordert.  
 
 The code can be accessed using the Google Colab Link. Google Colab Link: https://colab.research.google.com/drive/1-nvlGVyfZH5tQDS-mXPKWejJU2Ts4v9h?usp=sharing
+
+
+The code of the Unsupervised Text Classification can be accessed: https://colab.research.google.com/drive/1rJ9HazsH34RbPKcSKqZFuDx2ASiTb35I?usp=sharing
+
 
 
 
