@@ -30,7 +30,7 @@ In this experiment, we have applied  the  pre-trained zero-shot model (https://j
 2. Yahoo-Answers-Topic Data is available in  huggingface datasets https://huggingface.co/datasets/yahoo_answers_topics
 
 3. Forensic Data: 
-    Gmail: For the Gmail text we have used Android Gmail Conversations.csv file which available at: 
+    Gmail: For the Gmail text we have used Android Gmail Conversations.csv file which is available at: 
     
     https://drive.google.com/drive/folders/16mKUq5BWX_hWTl2hHmEeMChwweVnYrmg
     
@@ -43,7 +43,7 @@ In this experiment, we have applied  the  pre-trained zero-shot model (https://j
     
     
     
-    Twitter: Here we have used Twitter Tweets.csv and Twitter Direct Messages.csv files which is available at:
+    Twitter: Here we have used Twitter Tweets.csv and Twitter Direct Messages.csv files that are available at:
     
     https://drive.google.com/drive/folders/1g0pVIlNti1eVoG4AEC4Qr8ADWC69ChZq
 
